@@ -17,3 +17,5 @@ entries:
       show_more: true
       show_more_text: 显示更多...
       show_more_url: archive.html
+      
+{: data-content="copyright 2021-2023"}
