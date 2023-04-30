@@ -11,27 +11,9 @@ entries:
       - title: rss订阅
         url: feed.xml
 
-  - title: all posts
+  - title: 许多
     post_list:
       limit: 5
       show_more: true
       show_more_text: 显示更多...
       show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
